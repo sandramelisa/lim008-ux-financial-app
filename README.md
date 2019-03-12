@@ -1,5 +1,44 @@
 # Aplicación financiera
 
+## I. Introducción
+
+### 1. Preámbulo
+
+La transformación digital esta en todos los  ámbitos  y el sector bancario no es la excepción, si estos  quieren ser exitosos y seguir existiendo deben incluirla .Los clientes ya acostumbrados a las  apps también esperan que sus bancos les brinden soluciones rápidas, eficientes y seguras.
+
+Los bancos tienen que intentar adaptarse a las expectativas de los clientes creando cada vez mejores soluciones.
+
+### 2. Contexto
+
+Hace 6 meses que el  banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro.En este tiempo la app ha tenido algo de tracción pero el banco desea que llegue a todo su potencial es por eso que el equipo detrás de este producto   han decidido contratarnos como UX para que los ayudemos a definir la dirección y evolución del producto
+
+#### 2.1. MVP de Banco
+
+El producto mínimo viable que el banco lanzó al mercado fue este:
+
+![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+
+### 2.2. Landing Page
+
+Algunas partes de su landing page lucía así:
+
+![lp1](images/lp1.PNG)
+
+![lp2](images/lp2.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////
 ## Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
@@ -39,7 +78,7 @@ Manager del equipo les brinda el contexto:
   resultados iniciales y de sacar una segunda iteración del producto. Y para eso
   las hemos contratado. Toda la documentación de este producto la tenemos en una
   carpeta de [Google Drive](http://bit.ly/uxd-reto-2). Les doy acceso.
-  
+
 > Necesitamos traer una propuesta del nuevo diseño en dos semanas porque tenemos
   que presentarla a nuestro Gerente General en la reunión trimestral. Es
   importante que cualquier cosa que presentemos ya incorpore feedback de testing
@@ -154,8 +193,8 @@ agregar los documentos complementarios que sustenten tu proceso.
 Para el hacker edition puedes elegir una o varias de estas opciones:
 
 - Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
+  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante
+  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te
   fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
   en un documento adicional (en el formato que prefieras).
 - Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
@@ -165,7 +204,7 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
 - Diseña un app para Apple Watch que complemente tu propuesta.
 - En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
+  tu propia web desde 0.
 - Escribe un post en Medium contando tu proceso de investigación.
 - Crea un video mostrando el demo del app, aquí algunos ejemplos:
   - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
