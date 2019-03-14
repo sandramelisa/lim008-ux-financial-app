@@ -31,6 +31,22 @@ Algunas partes de su landing page lucía así:
 ![lp3](images/lp3.PNG)
 
 
+## II. Research
+
+Objetivos iniciales del proyecto
+
+- Identificar si el user persona esta bien definido.
+- Analizar la data entregada por el cliente.
+- Identificar posibles problemas dentro de la app.
+
+
+
+
+
+*Que la app fomente el ahorro.Que el valor agregado no sea simplemente voy a poner el 10%
+en esta cuenta y ya el valor agregado seria ligarlo con algun deseo,alguna meta,algo que
+concretice mas y que ayude a que ellos hagan eso.Queremos que la app haga eso.
+
 
 
 
