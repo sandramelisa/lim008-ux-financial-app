@@ -26,8 +26,9 @@ Algunas partes de su landing page lucía así:
 
 ![lp2](images/lp2.PNG)
 
+### 3. Rediseño UX
 
-
+![lp3](images/lp3.PNG)
 
 
 
